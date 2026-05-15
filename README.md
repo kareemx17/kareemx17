@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi there👋!</h2>
-<p>- 🔭 I’m currently working on PySpiWeb, a python web framework</p>
-<p>- 🌱 I’m currently learning Tensorflow and ML</p>
+<p>- 🔭 Software Engineer</p>
+<p>- 🌱 Built full-stack website and AI agent workflows for over 30+ bussinesses</p>
 <p>- 👯 I’m looking to collaborate on AI projects/start-ups  </p>
 
 ###
